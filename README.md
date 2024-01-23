@@ -10,6 +10,9 @@ Penguino has the ability to connect to any Android devices via Bluetooth, and wi
 - Gabriel Moracca
 - Seiji Akakabe
 
+# Technologies
+- C++ & Arduino
+- Kotlin & Android Studio
 
 ## Connecting to Penguino
 
